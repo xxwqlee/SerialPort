@@ -1,0 +1,9 @@
+﻿  Moc'ing SerialPortlxy.h...
+  Rcc'ing SerialPortlxy.qrc...
+  Uic'ing SerialPortlxy.ui...
+  RCC: Warning: No resources in 'D:\02. Program\02. C++\SerialPortlxy\SerialPortlxy.qrc'.
+  main.cpp
+  SerialPortlxy.cpp
+  moc_SerialPortlxy.cpp
+  qrc_SerialPortlxy.cpp
+  SerialPortlxy.vcxproj -> D:\02. Program\02. C++\SerialPortlxy\x64\Release\SerialPortlxy.exe
